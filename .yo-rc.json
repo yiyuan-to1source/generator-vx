@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "to1source",
+      "authorEmail": "hello@to1source.cn",
+      "authorUrl": "https://to1source.com"
+    }
+  }
+}
